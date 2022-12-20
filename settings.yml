@@ -11,7 +11,7 @@ labels:
     color: '#336699'
     description: New functionality.
 
-  - name: Help Wanted2
+  - name: Help Wanted
     # Provide a new name to rename an existing label
     new_name: first-timers-only
 
