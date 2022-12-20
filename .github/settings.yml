@@ -7,13 +7,13 @@ repository:
   # name: repo-name
 
   # A short description of the repository that will show up on GitHub
-  description: description of repo~~~~~~~
+  # description: description of repo~~~~~~~
 
   # A URL with more information about the repository
   # homepage: https://artusjs.github.io/
 
   # A comma-separated list of topics to set on the repository
-  topics: github, probot
+  # topics: github, probot
 
   # Either `true` to make the repository private, or `false` to make it public.
   #   private: false
@@ -26,7 +26,7 @@ repository:
   has_projects: false
 
   # Either `true` to enable the wiki for this repository, `false` to disable it.
-  has_wiki: true
+  has_wiki: false
 
   # Either `true` to enable downloads for this repository, `false` to disable them.
   has_downloads: false
